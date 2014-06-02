@@ -1,0 +1,52 @@
+8
+
+dir
+1539
+http://isvn.tigr.org/IT/webteam/smurf/htdocs/scripts/php
+http://isvn.tigr.org/IT
+
+
+
+2008-05-06T18:04:40.146804Z
+1536
+blamb
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5834ecb1-e407-0410-80dd-828291c39946
+
+redirect.php
+file
+
+
+
+
+2008-05-06T18:57:02.000000Z
+3207c745876b4e615e56617d7f1d8a72
+2008-04-01T13:59:53.166154Z
+1333
+blamb
+
+config.php
+file
+1594
+
+
+
+2008-05-22T15:43:45.000000Z
+dbc1ec97afeaa6e8560215bf8b3e3c05
+2008-05-22T16:16:07.154167Z
+1594
+blamb
+
