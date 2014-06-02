@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/IT/!svn/ver/1539/webteam/smurf/cgi-bin/pl
+END
+clusters_domain_content.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/IT/!svn/ver/1891/webteam/smurf/cgi-bin/pl/clusters_domain_content.pl
+END
+hmm_lib.pl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/IT/!svn/ver/1891/webteam/smurf/cgi-bin/pl/hmm_lib.pl
+END
+HMM_search_clusters.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/IT/!svn/ver/1891/webteam/smurf/cgi-bin/pl/HMM_search_clusters.pl
+END
+HMM_search_nrps_pks_dmat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/IT/!svn/ver/1571/webteam/smurf/cgi-bin/pl/HMM_search_nrps_pks_dmat.pl
+END
+create_clusters_gdistance_domaincontent.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/IT/!svn/ver/1568/webteam/smurf/cgi-bin/pl/create_clusters_gdistance_domaincontent.pl
+END
+delimit_clusters_further.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/IT/!svn/ver/1568/webteam/smurf/cgi-bin/pl/delimit_clusters_further.pl
+END
+create_genome_input.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/IT/!svn/ver/1891/webteam/smurf/cgi-bin/pl/create_genome_input.pl
+END
+sort_clusters_by_gene_order.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/IT/!svn/ver/1891/webteam/smurf/cgi-bin/pl/sort_clusters_by_gene_order.pl
+END
+htab.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/IT/!svn/ver/1891/webteam/smurf/cgi-bin/pl/htab.pl
+END
+determine_nrps_pks_dmat.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/IT/!svn/ver/1568/webteam/smurf/cgi-bin/pl/determine_nrps_pks_dmat.pl
+END
+get_nrps_pks_dmat_file_user.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/IT/!svn/ver/1568/webteam/smurf/cgi-bin/pl/get_nrps_pks_dmat_file_user.pl
+END
+make_SM_clusters.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/IT/!svn/ver/1568/webteam/smurf/cgi-bin/pl/make_SM_clusters.pl
+END
