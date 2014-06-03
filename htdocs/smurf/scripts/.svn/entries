@@ -1,34 +1,0 @@
-8
-
-dir
-1539
-http://isvn.tigr.org/IT/webteam/smurf/htdocs/scripts
-http://isvn.tigr.org/IT
-
-
-
-2008-05-06T18:49:06.135713Z
-1539
-blamb
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-5834ecb1-e407-0410-80dd-828291c39946
-
-php
-dir
-
-js
-dir
-
