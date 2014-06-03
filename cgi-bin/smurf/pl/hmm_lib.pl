@@ -4719,7 +4719,7 @@ sub get_avail_hmm_acc {
     return "TIGR" . '0' x ( 5 - length($value) ) . "$value";
 }
 #################################################################################################################
-#login SYBYANK as yank, password sybyank
+#login SYBYANK as ####, password #######
 sub replace_egad_acc {
     use strict;
     my ( $seq_r, $omni_cmr, $user, $password, $group, $log_header, $log_r ) =
@@ -4798,7 +4798,7 @@ sub download_nraa {
     my ( $prot_r, $log_header, $log_r, $get_seq, $user, $password ) = @_;
     $user = "access"
       if ( $user !~ /\S/ );
-    $password = "access"
+    $password = "######"
       if ( $password !~ /\S/ );
     my $sybyank =
       &connect_db( 'nraa', 'Sybase', 'SYBYANK', $user, $password );

@@ -24,12 +24,12 @@ my $redir = '/smurf/upload.php';
 my $redir1 = '/smurf/runsmurf.php';
 
 #my $username = 'fseifudd';
-#my $password = 'IL23456t$';
+#my $password = '#########';
 #my $database = 'smurf';
 #my $hostname = 'mysql.tigr.org';
 
 my $username = 'smurf_rw';
-my $password = 'JAxZLH.mfCS6JrcQ8';
+my $password = '#################';
 my $database = 'smurf';
 my $hostname = 'mysql51-dmz-pro';
 

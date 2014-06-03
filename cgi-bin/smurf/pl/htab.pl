@@ -116,7 +116,7 @@ _EOT_
     $info{'server'}  = "SYBTIGR";
     $info{'db'}      = "egad";
     $info{user} = "access";
-    $info{password} = "access";
+    $info{password} = "######";
     &get_options(\%info, $usage);
     $info{db_proc} = &connect_db($info{db}, $info{db_type}, $info{server}, $info{user}, $info{password}) unless($info{no_db});
     if($info{file}){
