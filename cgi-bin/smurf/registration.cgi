@@ -21,15 +21,10 @@ my $q = new CGI;
 my $redir = '/smurf/upload.php';
 my $redir1 = '/smurf/runsmurf.php';
 
-#my $username = 'fseifudd';
-#my $password = '#########';
-#my $database = 'smurf';
-#my $hostname = 'mysql.tigr.org';
-
 my $username = 'smurf_rw';
-my $password = '#################';
+my $password = 'JAxZLH.mfCS6JrcQ8';
 my $database = 'smurf';
-my $hostname = 'mysql51-dmz-pro';
+my $hostname = 'mysql-dmz-pro';
 
 my $dbh = DBI->connect("DBI:mysql:host=$hostname;db=$database", $username, $password, {RaiseError => 1, PrintError => 1});
 
